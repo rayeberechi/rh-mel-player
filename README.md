@@ -13,6 +13,7 @@ Ray Melodies is a React-based web application set up to leverage Spotify API to 
   - [Usage](#usage)
   - [Routing](#routing)
   - [Known Issues and Future Enhancements](#known-issues-and-future-enhancements)
+  - [Deployment and Localhost Limitations](#deployment-and-localhost-limitations)
   - [Credits](#credits)
 
 
@@ -153,6 +154,11 @@ rh-mel-player/
 - A 404 error page for broken/incorrect links is currently unavailable and will be implemented.
 - Implement backend integration for user registration and other features.
 - Investigate and resolve errors.
+
+
+## Deployment and Localhost Limitations
+
+**Note:** Ray Melodies is currently optimized for local development and experiences issues when deployed to remote environments like Netlify. Due to limitations with the Spotify API's redirect URI handling and potential configuration discrepancies, seamless functionality is best experienced when running the application on localhost. 
 
 ## Credits
 
