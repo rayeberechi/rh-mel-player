@@ -31,7 +31,7 @@ Ray Melodies is a React-based web application set up to leverage Spotify API to 
 
 ## Screenshot
 
-![Ray Melodies App Screenshot](/public/Screenshot.png)
+![Ray Melodies App Screenshot](/public/P-Screenshot.png)
 
 
 ## Technologies Used
@@ -167,3 +167,5 @@ rh-mel-player/
 -   **Spotify API:** Spotify for Developers
 -   **Font Awesome:** For icons.
 -   **Youtubeversity:** For educational resources.
+-   **Author:** Faithy Raymond
+-   **Tutor:**  Superior, Web3Bridge
